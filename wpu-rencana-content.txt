@@ -1,5 +1,8 @@
 RENCANA KONTEN WPU 
 
 - PHP
+  # laravel
 - JAVASCRIPT
+  # ES6
 - REACT JS
+  # HOOK
